@@ -22,6 +22,7 @@ Versions:
 I wrote, compiled, tested, and patched this into a larger program using:
 
 $ gfortran --version
+
      GNU Fortran (GCC) 4.4.7 20120313 (Red Hat 4.4.7-23)
      Copyright (C) 2010 Free Software Foundation, Inc.
 
