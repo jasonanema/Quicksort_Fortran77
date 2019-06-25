@@ -1,7 +1,7 @@
 # Quicksort_Fortran77
 Implementation of an improved quicksort algorithm to replace deprecated QSORT() in Fortran 77.
 
-This was written to assist in reviving legacy code in Fortran 77. Hopefully others will find it useful. 
+This was written to assist in reviving legacy code in Fortran 77. Hopefully others will find it useful too.
 
 Contents:
 quicksort_real_F77.F
