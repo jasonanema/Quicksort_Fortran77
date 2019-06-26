@@ -52,7 +52,7 @@ C      endif
 C      END
 C  ----------------------------------------------------------------
 C  Then in your program, call quicksort with:
-C      call quicksort(array, n, compint)
+C      call quicksort_real_F77(array, n, compint)
 C
 C  The maximal length of an array in this implementation is (2^31-1),
 C  but can be changed to allow for length up to (2^63-1) by changing the
