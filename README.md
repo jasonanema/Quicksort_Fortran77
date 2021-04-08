@@ -32,4 +32,4 @@ If you'd like to change the data types of the entries of the arrays, you'll need
 
 You can change compreal.F to be a custom comparision function for more complicated projects too. 
 
-See the top comments of quicksort_real_F77.F for details, references and acknowledgements. 
+See the top comments of quicksort_real_F77.F for details, references, copyright, and acknowledgements. 
