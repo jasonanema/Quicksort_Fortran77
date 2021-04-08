@@ -298,7 +298,7 @@ C  Increase effective stack size
 C  Push pointers to larger subarray on stack for later processing,
 C  process smaller subarray immediately. 
          if(tstack.gt.mstack) THEN
-           WRITE(*,*)'Stack size is too small in quicksort fortran code' 
+           WRITE(*,*)'Stack size is too small in quicksort fortran code quicksort_real_F77.F' 
            WRITE(*,*)'Are you sure you want to sort an array this long?'
            WRITE(*,*)'Your array has more than 2^63-1  entries?'
            WRITE(*,*)'If so, set mstack parameter to be at least:'
